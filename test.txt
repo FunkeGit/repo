@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is E219-CD95
-
- Directory of C:\Users\Dell\Desktop\MY Project
-
-04/15/2023  10:56 PM    <DIR>          .
-04/15/2023  10:56 PM    <DIR>          ..
-04/15/2023  10:56 PM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  158,582,435,840 bytes free
+This is shina
